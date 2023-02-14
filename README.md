@@ -12,7 +12,7 @@ Associated with course of Communication Systems.
 
 ## Tech Stack
 
-MATLAB 
+MATLAB Online
 
 
 
